@@ -1,1 +1,1 @@
-Grafana. Sample settings.
+Grafana. Sample settings. Step by step.
